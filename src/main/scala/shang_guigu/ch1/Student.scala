@@ -2,7 +2,7 @@ package shang_guigu.ch1
 
 // 伴生类，可以访问伴生对象里面的方法
 // 在编译之后，伴生类会变成Student.class
-class Student (name: String, age: Int){
+class Student (name: String, var age: Int){
   def printInfo(): Unit = {
     // 注意name和age是对象本身的，而school是伴生对象的
     println(name + age + Student.school)

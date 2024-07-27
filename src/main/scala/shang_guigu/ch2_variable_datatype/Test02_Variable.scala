@@ -1,6 +1,6 @@
-package shang_guigu.ch2
+package shang_guigu.ch2_variable_datatype
 
-import shang_guigu.ch1.Student
+import shang_guigu.ch1_basics.Student
 
 /*
 var表示变量

@@ -1,4 +1,4 @@
-package shang_guigu.ch2
+package shang_guigu.ch2_variable_datatype
 
 object Test01_Comment {
   /**

@@ -1,4 +1,4 @@
-package shang_guigu.ch1
+package shang_guigu.ch1_basics
 
 //object定义了一个单例的对象，全局只有一个，并且是一个伴生对象
 //问题，scala是OOM的，对象都是从类new出来的，那这个对象到底是哪个类的对象呢？

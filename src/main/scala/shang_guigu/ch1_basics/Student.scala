@@ -1,4 +1,4 @@
-package shang_guigu.ch1
+package shang_guigu.ch1_basics
 
 // 伴生类，可以访问伴生对象里面的方法
 // 在编译之后，伴生类会变成Student.class
